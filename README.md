@@ -1,42 +1,14 @@
-# Paper for Jekyll
-A new material design utilising theme for your Jekyll blog. Built on [Material Design Lite](http://www.getmdl.io/).
+# Type Theme
 
-![screenshot](assets/screenshots/mockup.jpg)
+![Default Type Theme blog](https://cloud.githubusercontent.com/assets/816965/5142407/19742e48-71d6-11e4-8d9d-fdfe010784f0.png)
 
-## Demo
- [dbtek.github.io/paper-demo](http://dbtek.github.io/paper-demo)
+A free and open-source [Jekyll](http://jekyllrb.com) theme. Great for blogs and easy to customize.
 
-### Batteries Included
-There are many cool features bundled with Paper such as:
+## Get Started
 
-- Full Github Pages support.
-- Responsive layout.
-- Dynamic search with [jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search/).
-- Customizable theme colors.
-- Sass variables.
-- RSS feed.
-- Post tags and categories.
-- Pagination.
-- Syntax highlighting with pygments.
-- Disqus comments.
+[Demo](https://rohanchandra.github.io/type-theme/)
 
-### Tech
-Under the hood Paper contains:  
-- Material Design Lite.
-- CoffeeScript.
-- Sass.
+[Using Type](https://rohanchandra.github.io/project/type/)
 
-### Install
-Easiest way of getting Paper work is forking.
-
-- Fork the [repo](https://github.com/dbtek/paper).
-- Rename forked repo as `username.github.io`.
-- Set up blog by editing `_config.yml`.
-- Enjoy.
-
-### Author
-Ismail Demirbilek
-[@dbtek](https://twitter.com/dbtek)
-
-### License
-[MIT](http://opensource.org/licenses/MIT)
+## License
+The MIT License (MIT)
