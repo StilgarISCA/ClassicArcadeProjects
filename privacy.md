@@ -36,3 +36,4 @@ If you are concerned about your privacy, information and how it's being used, yo
 
  * [GitHub](https://help.github.com/articles/github-privacy-policy/)
  * [Google](http://www.google.com/intl/en/policies/privacy/)
+ * [Google Partners](http://www.google.com/intl/en/policies/privacy/partners)
