@@ -2,6 +2,7 @@
 layout: page
 title: Privacy Policy
 permalink: /privacy/
+hide: true
 ---
 # Classic Arcade Projects Privacy Policy
 
