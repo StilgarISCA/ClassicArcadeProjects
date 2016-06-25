@@ -1,0 +1,12 @@
+### macOS ###
+.DS_Store
+.Spotlight-V100
+.Trashes
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-metadata
+.bundle
+Gemfile.lock
+vendor/*
