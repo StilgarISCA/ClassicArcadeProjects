@@ -1,6 +1,10 @@
 ---
 layout: post
 title: Keep it Simple Stupid
+tags:
+- raspberry pi
+- power down
+- ups
 ---
 One of the problems to conquer with using the Raspberry Pi as my Track & Field hardware is the shutdown step. While a lot of arcade machines do have a power switch, Track & Field (to my knowledge) does not. Powering down these old games in the arcade generally meant just turnning off a gang switch or breaker. In a one-off setting you'd likely just pull the plug. To appear outwardly authentic, I want to retain the ability to pull the plug for powering down.
 
@@ -28,7 +32,7 @@ The problem is that this was too elaborate for me. I hate soldering and I'm not 
 
 After ordering more equipment, when I sat down to do the work, it was a bit too overwhelming for me. Immediately, I noticed that I was going to need even more gear. I'm sure I could pull it off, but I didn't want to go much further down this road because it'd take up too much of my precious, limited time and I wanted to spend more time building out the game then trying to solve this problem.
 
-Looking over the parts and equipment on my workbench, I quickly recognized that I violated the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle). Looking back over my notes, I went to a simple, but elegant solution that I had dismissed earlier because for some reason it seemed wasteful to me.
+Looking over the parts and equipment on my workbench, I quickly recognized that I violated the [KISS principle](https://en.wikipedia.org/wiki/KISS_principle). Going back over my notes, I went to a simple, but elegant solution that I had dismissed earlier because for some reason it seemed wasteful to me.
 
 Mathias Kunter uses a simple USB cellphone backup power brick combined with a cheap ethernet switch (I had some sort of mental problem using a switch this way). When the switch loses power, some custom software detects when the ethernet drops out (or comes on) and can execute batch scripts. You can read all about it at his project site: [http://raspi-ups.appspot.com/en/index.jsp](http://raspi-ups.appspot.com/en/index.jsp).
 

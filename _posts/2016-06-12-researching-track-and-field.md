@@ -1,6 +1,11 @@
 ---
 layout: post
 title: Researching my Track & Field Build
+tags:
+- Track & Field
+- Cabinet
+- Hardware
+- Notes
 ---
 Before I committed to doing my Track & Field build, I did a lot of research to try and figure out if it would be feasible to build a replica myself.
 
