@@ -30,7 +30,7 @@ If you're not familiar with TNT, it's all about Todd N. Tuckey and his business.
 
 TNT's videos dusted the cobwebs off my old dream.
 
-### Own your own game round 2
+### Own your own game round two
 
 As it turns out, there's enough demand for these old games that ones in decent condition sell for upwards of $1,200 these days. A far cry from the good ol' days in college. If you haunt Craigslist, you can turn up some deals occasionally, but there are a lot of buyers on there who might fix up the games, but are more likely to gut them and turn them into MAME cabinets. I still mostly have a space issue -- I live in a 900 sq ft. house. But I have a hard time spending that much money on a game.
 
