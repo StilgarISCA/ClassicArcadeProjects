@@ -22,7 +22,9 @@ Knowing that paper has a habit of wrinkling up when you push up against it, I us
 
 ![alt text](/img/tnf-plans-square.jpg "Taped down plans with square")
 
-A close examination of the plans will reveal that some of the edges are not quite flush with adjacent lines. ![alt text](/img/tnf-plans-detached-corner.png "Detached corner curves") I’m not sure if the original plans were like this, or if it was an artifact of bringing them into Adobe Illustrator, but it causes a small problem. The curves are also not smooth curves because they could use some more points in them. You can see they’re just a series of short lines. When I trimmed the paper, I left a bit more space there.
+A close examination of the plans will reveal that some of the edges are not quite flush with adjacent lines. I’m not sure if the original plans were like this, or if it was an artifact of bringing them into Adobe Illustrator, but it causes a small problem. The curves are also not smooth curves because they could use some more points in them. You can see they’re just a series of short lines. When I trimmed the paper, I left a bit more space there.
+
+![alt text](/img/tnf-plans-detached-corner.png "Detached corner curves")
 
 After finishing the straight lines, I needed a way to draw lines for these curves. I looked around for curves with similar radii in the garage and I found a couple of things to get by.
 
