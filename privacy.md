@@ -6,7 +6,7 @@ hide: true
 ---
 # Classic Arcade Projects Privacy Policy
 
-When you interact with classicarcadeprojects.com (or any other internet service for that matter), you and your browsing deivce engages in an information exchange with the website, the server(s) it's hosted on and other scripts and servers which relay content. This page is to help you understand what this means for you when you visit classicarcadeprojects.com.
+When you interact with classicarcadeprojects.com (or any other internet service for that matter), you and your browsing deivce engage in an information exchange with the website, the server(s) it's hosted on and other scripts and servers which relay content. This page is to help you understand what this means for you when you visit classicarcadeprojects.com.
 
 ## What we collect
 We make use of Google Analytics to collect information about your browser and device interacting with our site. This data includes visit metrics including, but not limited to: your entry and exit points to the site, the length of your visit, the number of visits, your path through the site and technolgies supported by your web browser.
@@ -21,9 +21,9 @@ The data we collect are used to help gauge traffic to classicarcadeprojects.com.
 We want to know what you're thinking. If you volunteer data through comments, social media or other means of transmission we will read and review some or all of these comments to collect your opinions or for answering your questions.
 
 ## How this information is stored
-Aside from email, none of the data we collect is stored on servers controlled by classicarcadeprojects.com. The storage of this data is controlled by GitHub and Google.
+None of the data we collect is stored on servers controlled by classicarcadeprojects.com. The storage of this data is controlled by GitHub and Google.
 
-We may retain your emails and the sending address(es) indefinitely. While the email is not directly stored on servers controlled by classicarcadeprojects.com it may be pushed out to email clients on personal computers, or hand-held devices such as tablets or smart phones.
+We may retain your emails and the sending address(es) indefinitely. While the email is not directly stored on servers controlled by classicarcadeprojects.com temporary copies may be pushed out to email clients on personal computers, or hand-held devices such as tablets or smart phones.
 
 We may also make use of cookies which are stored by your web browser for tracking, verification or enhanced site functionality.
 
