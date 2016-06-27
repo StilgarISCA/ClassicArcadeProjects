@@ -15,7 +15,7 @@ theme:
      <p>Adventures in Classic Arcade Gaming</p>
   header_text_feature_image:
   footer_text: >
-   <a href="http://classicarcadeprojects.com/privacy">Privacy Policy</a>
+   <a href="/about">About</a> | <a href="/privacy">Privacy Policy</a> | <a href="/sitemap.xml">Sitemap</a>
 
   # Icons
   rss: true
