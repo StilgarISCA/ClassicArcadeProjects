@@ -70,3 +70,9 @@ sass:
   sass_dir: _sass
   style: :compressed
 gems: [jekyll-paginate]
+
+# SITEMAP GENERATOR
+# https://github.com/jekyll/jekyll-sitemap
+gems:
+  - jekyll-sitemap
+  
