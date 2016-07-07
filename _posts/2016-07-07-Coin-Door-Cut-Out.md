@@ -35,4 +35,4 @@ All finished. Does the coin door fit?
 
 Looks great!
 
-This coin door and mechs were ordered from <twistedquarter.com>.I deliberately ordered blue ejectors because I think they'll look nice with the mostly blue control panel, and I'm planning on doing blue t-molding too.
+This coin door and mechs were ordered from <http://www.twistedquarter.com>. I deliberately ordered blue ejectors because I think they'll look nice with the mostly blue control panel, and I'm planning on doing blue t-molding too.
