@@ -7,7 +7,7 @@ theme:
   # Meta
   title: Classic Arcade Projects
   avatar: 
-  gravatar: 959080cbb338fac79169ebbe21cbe988
+  gravatar: #959080cbb338fac79169ebbe21cbe988
   description: "Dedicated to my classic arcade build and rebuild projects" # used by search engines
 
   # Header and footer text
