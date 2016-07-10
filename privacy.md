@@ -3,6 +3,7 @@ layout: page
 title: Privacy Policy
 permalink: /privacy/
 hide: true
+excerpt: Privacy policy for classicarcadeprojecs.com
 ---
 # Classic Arcade Projects Privacy Policy
 
