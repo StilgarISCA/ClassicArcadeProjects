@@ -4,9 +4,6 @@ title: About
 permalink: /about/
 excerpt: Classic Arcade Projects was started to track progress on my reproduction Track & Field cocktail cabinet. I thought it would be fun to share my experiences with the community.
 ---
-
-## About
-
 Classicarcadeprojects.com is a site I started to track my progress on my reproduction Track & Field cocktail cabinet. As I'm doing the build out for this project, I thought it would be both fun and interesting to share my experiences with the community.
 
 ### Where it all began
