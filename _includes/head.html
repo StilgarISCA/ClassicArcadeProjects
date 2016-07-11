@@ -5,9 +5,6 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="X-Frame-Options" content="sameorigin">
 
-	<!-- CSS -->
-	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
-
 	<!--Favicon-->
 	<link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
 
@@ -17,20 +14,25 @@
 	<!-- RSS -->
 	<link rel="alternate" type="application/atom+xml" title="{{ site.theme.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
 
-	<!-- Font Awesome -->
-	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
-	
-	{% if site.theme.google_fonts %}
-    <!-- Google Fonts -->
-	<link href="//fonts.googleapis.com/css?family={{ site.theme.google_fonts }}" rel="stylesheet" type="text/css">
-	{% endif %}
-	
-	{% if site.theme.katex %}
-    <!-- KaTeX -->
-	<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
-	<script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
-	{% endif %}
-	
+    <noscript id="deferred-styles">
+        <!-- CSS -->
+        <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+
+        <!-- Font Awesome -->
+        <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet">
+
+        {% if site.theme.google_fonts %}
+        <!-- Google Fonts -->
+        <link href="//fonts.googleapis.com/css?family={{ site.theme.google_fonts }}" rel="stylesheet" type="text/css">
+        {% endif %}
+
+        {% if site.theme.katex %}
+        <!-- KaTeX -->
+        <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.css">
+        <script src="//cdnjs.cloudflare.com/ajax/libs/KaTeX/0.3.0/katex.min.js"></script>
+        {% endif %}
+	</noscript>
+        
 	{% if site.theme.google_analytics %}
     <!-- Google Analytics -->
     <!-- https://github.com/MohamedBassem/spam-referrals-blocker -->
@@ -47,4 +49,20 @@
     }
 	</script>
 	{% endif %}
+    
+    <!-- Deferred Loading of CSS  -->
+    <!-- https://developers.google.com/speed/docs/insights/OptimizeCSSDelivery -->
+    <script>
+      var loadDeferredStyles = function() {
+        var addStylesNode = document.getElementById("deferred-styles");
+        var replacement = document.createElement("div");
+        replacement.innerHTML = addStylesNode.textContent;
+        document.body.appendChild(replacement)
+        addStylesNode.parentElement.removeChild(addStylesNode);
+      };
+      var raf = requestAnimationFrame || mozRequestAnimationFrame ||
+          webkitRequestAnimationFrame || msRequestAnimationFrame;
+      if (raf) raf(function() { window.setTimeout(loadDeferredStyles, 0); });
+      else window.addEventListener('load', loadDeferredStyles);
+    </script>
 </head>
