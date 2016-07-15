@@ -7,7 +7,7 @@ tags:
 - Slot cutter
 feature-img: "img/tnf-router-ready.jpg"
 ---
-I ended up haling my cabinet assembly because I realized that I needed to cut the slot for my t-molding and it'd be difficult to use my router on an assembled cabinet.
+I ended up halting my cabinet assembly because I realized that I needed to cut the slot for my t-molding and it'd be difficult to use my router on an assembled cabinet.
 
 Having never used a router before -- I bought a new one just for this -- it took me a while to figure out how to adjust the damn thing to the correct depth to cut the slot. The instructions provided with the router are definitely written for someone who has used a router before.
 
