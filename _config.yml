@@ -76,3 +76,5 @@ gems: [jekyll-paginate]
 gems:
   - jekyll-sitemap
   
+# MAKES IT WORK LOCALLY
+exclude: [vendor]
