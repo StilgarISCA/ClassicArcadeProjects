@@ -1,0 +1,8 @@
+.image-wrapper {
+    text-align: center;
+
+    .image-caption {
+        color: $caption-color;
+        margin-top: $padding-small / 3;
+    }
+}
