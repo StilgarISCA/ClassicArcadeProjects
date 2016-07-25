@@ -40,7 +40,7 @@ layout: default
 {% endif %}
 
 <!-- Muut -->
-{% if site.theme.muut_community_name %}
+{% if site.theme.muut_community_name and page.comments == true %}
 <div class="comments">
   {% include muut.html %}
 </div>
