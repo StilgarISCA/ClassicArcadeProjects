@@ -42,6 +42,7 @@ layout: default
 <!-- Muut -->
 {% if site.theme.muut_community_name and page.comments == true %}
 <div class="comments">
+  <h4 class="comments-header">{{ site.theme.str_comments }}</h4>
   {% include muut.html %}
 </div>
 {% endif %}
