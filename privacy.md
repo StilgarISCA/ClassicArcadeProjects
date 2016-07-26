@@ -7,7 +7,7 @@ excerpt: Privacy policy for classicarcadeprojecs.com
 ---
 # Classic Arcade Projects Privacy Policy
 
-Last updated July 24, 2016
+Last updated July 25, 2016
 
 When you interact with classicarcadeprojects.com (or any other internet service for that matter), you and your browsing deivce engage in an information exchange with the website, the server(s) it's hosted on and other scripts and servers which relay content. This page is to help you understand what this means for you when you visit classicarcadeprojects.com.
 
@@ -26,7 +26,7 @@ Data can be used to track the legitamcy of visits from your web browser. If your
 We want to know what you're thinking. If you volunteer data through comments, social media or other means of transmission we will read and review some or all of these comments to collect your opinions or for answering your questions.
 
 ## How this information is stored
-None of the data we collect is stored on servers controlled by classicarcadeprojects.com. The storage of this data is controlled by CloudFlare, GitHub and Google.
+None of the data we collect is stored on servers controlled by classicarcadeprojects.com. The storage of this data is controlled by CloudFlare, GitHub, Google and Muut.
 
 We may retain your emails and the sending address(es) indefinitely. While the email is not directly stored on servers controlled by classicarcadeprojects.com temporary copies may be pushed out to email clients on personal computers, or hand-held devices such as tablets or smart phones.
 
@@ -44,3 +44,4 @@ If you are concerned about your privacy, information and how it's being used, yo
  * [GitHub](https://help.github.com/articles/github-privacy-policy/)
  * [Google](http://www.google.com/intl/en/policies/privacy/)
  * [Google Partners](http://www.google.com/intl/en/policies/privacy/partners)
+ * [Muut](https://muut.com/terms/privacy-policy.html)
