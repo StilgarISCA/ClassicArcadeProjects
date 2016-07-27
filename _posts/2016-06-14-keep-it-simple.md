@@ -5,6 +5,7 @@ tags:
 - raspberry pi
 - power down
 - ups
+comments: true
 ---
 One of the problems to conquer with using the Raspberry Pi as my Track & Field hardware is the shutdown step. While a lot of arcade machines do have a power switch, Track & Field (to my knowledge) does not. Powering down these old games in the arcade generally meant just turnning off a gang switch or breaker. In a one-off setting you'd likely just pull the plug. To appear outwardly authentic, I want to retain the ability to pull the plug for powering down.
 

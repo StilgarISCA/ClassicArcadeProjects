@@ -6,6 +6,7 @@ tags:
 - Cabinet
 - Hardware
 - Notes
+comments: true
 ---
 Before I committed to doing my Track & Field build, I did a lot of research to try and figure out if it would be feasible to build a replica myself.
 

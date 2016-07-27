@@ -7,6 +7,7 @@ tags:
 - plans
 - MDF
 - transfer
+comments: true
 ---
 My [last post](/2016/06/25/Track-And-Field-Cabinet-Plans.html) detailed how I was able to get full-scale prints of the Track & Field cabinet plans. The next step was to transfer them to Medium Density Fiberboard (MDF).
 

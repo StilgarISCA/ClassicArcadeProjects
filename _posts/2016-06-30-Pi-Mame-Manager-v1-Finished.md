@@ -8,6 +8,7 @@ tags:
 - Arcade
 - Shutdown
 - UPS
+comments: true
 ---
 I'm happy to announce that my [Pi Mame Manager script](https://github.com/StilgarISCA/PiMameManager) is done. Done enough to tag it as version 1.0.0 that is.
 

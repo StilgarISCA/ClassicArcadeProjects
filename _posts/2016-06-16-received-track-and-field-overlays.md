@@ -6,6 +6,7 @@ tags:
 - CPO
 - Control Panel
 - overlay
+comments: true
 ---
 I received my Track And Field control panel overlays today. They look very nice and have an authentic texture to them.
 

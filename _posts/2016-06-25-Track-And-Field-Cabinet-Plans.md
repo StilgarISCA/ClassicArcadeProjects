@@ -6,6 +6,7 @@ tags:
 - cocktail
 - cabinet
 - plans
+comments: true
 ---
 During the [research phase](http://www.classicarcadeprojects.com/2016/06/12/researching-track-and-field.html) of my Track & Field build out I noticed that there are some rudimentary designs located at [jakobud.com](http://jakobud.com/cabinetPlans.php). I knew these plans would be useful for getting started on my own build.
 

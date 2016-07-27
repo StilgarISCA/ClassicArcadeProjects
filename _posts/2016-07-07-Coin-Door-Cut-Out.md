@@ -8,6 +8,7 @@ tags:
 - Cut
 - Cabinet
 - Coin Door
+comments: true
 ---
 I was originally going to post the coin door cut out in the previous post, but that post was too long. As it turns out, there's enough here to warrant a seperate post.
 

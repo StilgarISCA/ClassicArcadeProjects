@@ -7,6 +7,7 @@ tags:
 - Saw
 - Cut
 - Cabinet
+comments: true
 ---
 As time allows, I've been busing cutting out pieces for the Track & Field cocktail cabinet. Mostly, everything has been going okay.
 
