@@ -8,7 +8,7 @@ tags:
 - plans
 comments: true
 ---
-During the [research phase](http://www.classicarcadeprojects.com/2016/06/12/researching-track-and-field.html) of my Track & Field build out I noticed that there are some rudimentary designs located at [jakobud.com](http://jakobud.com/cabinetPlans.php). I knew these plans would be useful for getting started on my own build.
+During the [research phase](/2016/06/12/researching-track-and-field.html) of my Track & Field build out I noticed that there are some rudimentary designs located at [jakobud.com](http://jakobud.com/cabinetPlans.php). I knew these plans would be useful for getting started on my own build.
 
 The plans have the radii of the various curves built into them, and I'm about as far from a carpenter as you can get. There was little to no hope of me being able to transfer those curves with some sort of compass on my own. [At about 55 seconds into Scr33n73's build video](https://www.youtube.com/watch?v=6qmcfn3i-7U&t=55s), you can see that he transferred printed plans to full scale on paper and then traced their outline onto sheets of MDF. That seemed like a great idea to me. The problem is when you look at the plans provided by jackobud.com, you can see that they're scaled down to fit onto standard 8.5 x 11 paper.
 

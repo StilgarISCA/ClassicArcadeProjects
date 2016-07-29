@@ -12,7 +12,7 @@ comments: true
 ---
 I'm happy to announce that my [Pi Mame Manager script](https://github.com/StilgarISCA/PiMameManager) is done. Done enough to tag it as version 1.0.0 that is.
 
-You can find all the nitty-gritty details in [my last post on the subject](http://www.classicarcadeprojects.com/2016/06/14/keep-it-simple.html), and in [the repository's readme](https://github.com/StilgarISCA/PiMameManager). In a nutshell, it works something like this:
+You can find all the nitty-gritty details in [my last post on the subject](/2016/06/14/keep-it-simple.html), and in [the repository's readme](https://github.com/StilgarISCA/PiMameManager). In a nutshell, it works something like this:
 
 * Use a USB external battery brick -- like what you'd use to extend the battery life on your cell phone -- to pipe power to the Raspberry Pi.
 * Plug a cheap ethernet switch into the Raspberry Pi's ethernet port.
