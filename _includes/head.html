@@ -41,8 +41,7 @@
                 if( this.status === 200) {
                     spammers += this.response;
                     var ary = spammers.split( /\n/ );
-                    var referrer = document.referrer;
-                    if( ary.indexOf( referrer ) === -1 ){
+                    if( ary.indexOf( document.referrer ) === -1 ){
                         loadGoogleAnalytics();
                     }
                 } else {
