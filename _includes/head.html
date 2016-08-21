@@ -46,35 +46,12 @@
     <!-- Google Analytics -->    
 	{% if site.theme.google_analytics %}
     <script>
-        var spammers = '';
-        var xhr = new XMLHttpRequest();
-        try {
-            xhr.open( 'GET', 'https://raw.githubusercontent.com/desbma/referer-spam-domains-blacklist/master/spammers.txt', true );
-            xhr.send();
-            xhr.onload = function(){
-                if( this.status === 200) {
-                    spammers += this.response;
-                    var ary = spammers.split( /\n/ );
-                    if( ary.indexOf( document.referrer ) === -1 ){
-                        loadGoogleAnalytics();
-                    }
-                } else {
-                    loadGoogleAnalytics();
-                }
-            };
-        }
-        catch(e) {
-            loadGoogleAnalytics();
-        }
-
-        function loadGoogleAnalytics(){
-            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-            ga('create', '{{ site.theme.google_analytics }}', 'auto');
-            ga('send', 'pageview');
-        }
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', '{{ site.theme.google_analytics }}', 'auto');
+        ga('send', 'pageview');
     </script>
     {% endif %}
     
