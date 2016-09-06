@@ -7,7 +7,11 @@ sitemap: true
 ---
 Credits for various resources utilized on classicarcadeprojects.com.
 
-### 404 image
+### Jekyll Theme
+
+This site is based off of the [Type Jekyll Theme by Rohan Chandra](https://rohanchandra.github.io/project/type/). Used under MIT License.
+
+### 404 Image
 
 The image "[apes-404.jpg]({{ "/img/apes-404.jpg" | prepend: baseurl }})", is a derivative of the following images:
 
