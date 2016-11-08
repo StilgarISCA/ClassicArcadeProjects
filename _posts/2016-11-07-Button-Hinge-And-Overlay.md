@@ -10,7 +10,7 @@ tags:
 feature-img: "img/tnf-cp-single-in-place.jpg"
 comments: true
 ---
-My [last update](/2016/10/24/Fabricating-Control-Panels.html) was about the plywood construction of the control panels. There's a lot more to them which hasn't been covered so let’s get going!
+My [last update](/2016/10/24/Fabricating-Control-Panels.html) was about the particle board construction of the control panels. There's a lot more to them which hasn't been covered so let’s get going!
 
 Constructing this game from scratch without complete plans has been challenging at times. Without complete plans, I wasn’t sure how the control panels were supposed to open. Thankfully, there were a few Track and Field cocktails elsewhere on the internet which I could reference. Initially, I didn’t think I’d be able to use a piano hinge on the control panels, but it ended up being the correct choice.
 
@@ -22,7 +22,7 @@ Let me tell you that it was a real PITA getting the hinge set to the right heigh
 
 ![alt text](/img/tnf-piano-hinge-install.jpg "Predrilling the piano hinge holes")
 
-I wanted a nice surface to adhere my overlays to, so I once again primed and painted. I wanted to make sure to get at least a couple of coats of black on incase the overlay didn’t quite cover the length or height of the plywood. I used the same paint as mentioned in [this post](/2016/09/29/Leg-Levelers.html).
+I wanted a nice surface to adhere my overlays to, so I once again primed and painted. I wanted to make sure to get at least a couple of coats of black on incase the overlay didn’t quite cover the length or height of the particle board. I used the same paint as mentioned in [this post](/2016/09/29/Leg-Levelers.html).
 
 ![alt text](/img/tnf-painted-cp.png "Painted control panel")
 
