@@ -44,6 +44,6 @@ The buttons I ordered are [Goldleaf buttons from Ultimarc](https://www.ultimarc.
 {% include image.html
             img="img/tnf-player1-cp-finished.jpg"
             title="Finished Control Panel"
-            caption="It's not perfect, but I looks nice anyhow."
+            caption="It's not perfect, but it looks nice anyhow."
 %}
 
