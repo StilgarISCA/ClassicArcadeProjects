@@ -73,6 +73,8 @@ sass:
   style: :compressed
 gems: [jekyll-paginate]
 
+gems: [jekyll-github-metadata]
+
 # SITEMAP GENERATOR
 # https://github.com/jekyll/jekyll-sitemap
 gems:
