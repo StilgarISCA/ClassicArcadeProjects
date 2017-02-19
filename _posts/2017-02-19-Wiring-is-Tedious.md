@@ -33,7 +33,7 @@ The solution was to go with the industry standard Molex connectors. You pick an 
 
 I'm using an iPac board to convert the button presses into keystrokes that MAME will understand. I wanted that to look nice too, so unlike all the other boards, I mounted this one on the side of the cabinet instead of on the flat slide-out piece. This also allowed me to neatly arrange the wires from the control panels.
 
-I had preprogramed all the button locations on the iPac a head of time, and that ended up being a wasted effort. During preprograming I hadn't considered the physical orientation of the wires in relation to the iPac terminals. It was easier just to put the wires in where they made sense and then just reprogram Mame to match up with the wires after the fact.
+I had preprogramed all the button locations on the iPac a head of time, and that ended up being a wasted effort. During preprograming I hadn't considered the physical orientation of the wires in relation to the iPac terminals. It was easier just to put the wires in where they made sense and then just reprogram MAME to match up with the wires after the fact.
 
 {% include image.html
             img="img/tnf-ipac-neat-wires.jpg"
