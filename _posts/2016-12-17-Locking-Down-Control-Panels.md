@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Locking down the control panels
+title: Locking Down the Control Panels
 tags:
 - Track and Field
 - control panel

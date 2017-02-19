@@ -9,11 +9,11 @@ tags:
 - terminal
 feature-img: "img/tnf-control-panel-lose-wiring.jpg"
 comments: true
-excerpt: After many, many hours of running wires and crimping pins and termainals, I wasn't very thrilled to revisit all this work in the form of a blog post. Much like the wiring job itself, I pushed through and here we are.
+excerpt: After many, many hours of running wires and crimping pins and terminals, I wasn't very thrilled to revisit all this work in the form of a blog post. Much like the wiring job itself, I pushed through and here we are.
 ---
 I've spent hours and hours running wires, crimping pins and connectors and heat shrinking to get my Track and Field cocktail in a playable state.
 
-I bought a bunch of 18 gauge equivalent wire from Amazon.com. I needed more colors, but didn't want to buy more wire so I had to reuse. It would have been convenient to have enough colors for each button, but doubling up wasn't too bad because I could later trace the wires back to the correct button with the a test on my multimeter.
+I bought a bunch of 18 gauge equivalent wire from Amazon.com. I needed more colors, but didn't want to buy more wire so I had to reuse. It would have been convenient to have enough colors for each button, but doubling up wasn't too bad because I could later trace the wires back to the correct button with the continuity test on my multimeter.
 
 For each button I crimped on a spade terminal and put some heat shrink on for good measure. I realize the heat shrink wasn't necessary, but I like the clean, sealed look that it gives. I essentially did the same things for the speakers, but I used "real" speaker wire to wire the speakers up to the amplifier.
 
