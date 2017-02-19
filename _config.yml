@@ -49,8 +49,8 @@ theme_settings:
   str_follow_on: "Follow on"
   str_rss_follow: "Follow RSS feed"
   str_email: "Email"
-  str_next: "Newer"
-  str_prev: "Older"
+  str_next: "Older"
+  str_prev: "Newer"
   str_continue_reading: "Read more"
   str_comments: "Comments"
 
