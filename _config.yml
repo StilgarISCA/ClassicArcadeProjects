@@ -13,7 +13,7 @@ theme_settings:
   # Header and footer text
   header_text: >
      <p>Adventures in Classic Arcade Gaming</p>
-  header_text_feature_image:
+  header_text_feature_image: "img/tnf-forum-mostly-complete.jpg"
   footer_text: >
    <a href="/about">About</a> | <a href="/privacy">Privacy Policy</a> | <a href="/sitemap.xml">Sitemap</a>
 
