@@ -4,6 +4,7 @@ Array.prototype.forEach.call(elements, function(element) {
   if (element.type.indexOf('math/tex') != -1) {
      // Extract math markdown
      var textToRender = element.innerText || element.textContent;
+     textToRender = textToRender.replace(/%.*/g, '');
 
      // Create span for KaTeX
      var katexElement = document.createElement('span');
