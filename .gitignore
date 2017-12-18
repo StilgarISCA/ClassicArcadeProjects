@@ -11,3 +11,4 @@ _site/
 *.gem
 Gemfile.lock
 vendor/*
+node_modules/*
