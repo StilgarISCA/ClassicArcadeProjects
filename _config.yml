@@ -71,14 +71,12 @@ highlighter: rouge
 sass:
   sass_dir: _sass
   style: :compressed
-gems: [jekyll-paginate]
 
-gems: [jekyll-github-metadata]
-
-# SITEMAP GENERATOR
-# https://github.com/jekyll/jekyll-sitemap
-gems:
-  - jekyll-sitemap
+# HELPER GEMS
+plugins:
+  - jekyll-paginate
+  - jekyll-github-metadata
+  - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
 
 # MAKES IT WORK LOCALLY
 exclude: [vendor]
