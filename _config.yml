@@ -79,5 +79,5 @@ plugins:
   - jekyll-github-metadata
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
 
-# MAKES IT WORK LOCALLY
-exclude: [vendor]
+# EXCLUDE THESE FILES/FOLDERS FROM JEKYLL BUILD
+exclude: ['vendor', 'node_modules', 'src', 'Gemfile', 'Gemfile.lock']
