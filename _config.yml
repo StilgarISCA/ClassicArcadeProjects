@@ -2,6 +2,7 @@
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://www.classicarcadeprojects.com" # the base hostname & protocol for your site
 encoding: utf-8
+timezone: America/Detroit
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
