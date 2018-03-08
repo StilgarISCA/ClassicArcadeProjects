@@ -28,3 +28,7 @@ The image "[Coins-9626.jpg]("https://en.wikipedia.org/wiki/Token_coin#/media/Fil
 ### Apple Touch Icons
 
 The [Apple Touch Icons]({{ "/touch-icon-192x192.png" | prepend: baseurl }}) are derived from "[Joystick Free Icon](http://www.flaticon.com/free-icon/joystick_23402)" by [TutsPlus](http://www.flaticon.com/authors/tutsplus). Used under [CC 3.0 BY](https://creativecommons.org/licenses/by/3.0/). Color added.
+
+### Site Search
+
+The [search]({{ "/search/" | prepend: baseurl }}) is powered by [lunr.js](https://lunrjs.com/). My implementation is based on "[How to Make lunr.js and Jekyll Work Together (with Gotchas)](http://rayhightower.com/blog/2016/01/04/how-to-make-lunrjs-jekyll-work-together/)" by Ray Hightower.
