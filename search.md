@@ -14,5 +14,5 @@ title: Search
 <ul id="search_results"></ul>
 
 <script src="{{ site.baseurl }}/js/lunr.js"></script>
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.min.js" integrity="sha256-FgpCb/KJQlLNfOu91ta32o/NMZxltwRo8QtmkMRdAu8=" crossorigin="anonymous"></script>
 <script src="{{ site.baseurl }}/js/search.js"></script>
