@@ -1,11 +1,12 @@
 jQuery(function() {
   // Initialize lunr with the fields to be searched, plus the boost.
   window.idx = lunr(function () {
+    this.field('id');
     this.field('title');
-    this.field('tags', { boost: 10 });
-    this.field('content');
-    this.field('author');
-    this.field('categories');
+    this.field('content', { boost: 10 });
+    this.field('url');
+    this.field('tags');
+    this.field('excerpt');
   });
 
   // Get the generated search_data.json file so lunr.js can search it locally.
@@ -22,7 +23,7 @@ jQuery(function() {
 
   // Event when the form is submitted
   $("#site_search").submit(function(event){
-      event.preventDefault();
+      event.preventDefault(); // RTH: per Google, preventDefault() might be the culprit in Firefox
       var query = $("#search_box").val(); // Get the value for the text field
       var results = window.idx.search(query); // Get lunr to perform a search
       display_search_results(results); // Hand the results off to be displayed
@@ -43,7 +44,7 @@ jQuery(function() {
           var item = loaded_data[result.ref];
 
           // Build a snippet of HTML for this result
-          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a></li>';
+          var appendString = '<li><a href="' + item.url + '">' + item.title + '</a><p>' + item.excerpt + '</p></li>';
 
           // Add the snippet to the collection of results.
           $search_results.append(appendString);
