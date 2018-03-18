@@ -4,7 +4,7 @@ title: Search
 ---
 <form action="get" id="site_search">
 <center>
-  <input style="font-size:20px;" type="text" id="search_box">&nbsp;
+  <input style="font-size:20px;" type="text" id="search_box" autofocus>&nbsp;
   <input style="font-size:20px;" type="submit" value="search">
 </center>
 </form>
