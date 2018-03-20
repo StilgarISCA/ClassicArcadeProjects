@@ -2,7 +2,7 @@
 layout: page
 title: Search
 ---
-<form action="get" id="site_search">
+<form action="get" id="site_search" role="search">
 <center>
   <input style="font-size:20px;" type="text" id="search_box" autofocus>&nbsp;
   <input style="font-size:20px;" type="submit" value="search">
