@@ -34,8 +34,10 @@ Here's what you need:
 
 Wire +12v from your power supply to the coin meter. Wire the ground from the coin meter needs one of the diodes on it. Splice this ground into another diode and connect that to the (hot) coin switch point on the iPac. A third wire coming off of the splice is what goes to the common line on your coin mech switch. Then run another ground wire of the Normally Open (NO) point on your switch to the ground of the iPac. It's important that you install the diodes in the correct direction because they prevent the voltage from flowing the wrong way through the circuit. Here's a non-technical diagram I made up. Apologies if you're red/green colorblind. Red represents hot wires, and green is ground.
 
-Here's a picture of how I wired in the diodes to the terminal connector. In retrospect, I should have switched up the wire colors here.
-![alt text](/img/zener-diodes-in-euro-style-connector.jpg "Zener diodes mounted in a euro-style connector")
+{% include image.html
+            img="img/zener-diodes-in-euro-style-connector.jpg"
+            title="Zener diodes mounted in a euro-style connector"
+            caption="Here's a picture of how I wired in the diodes to the terminal connector. In retrospect, I should have switched up the wire colors here." %}
 
 ## Thanks
 I would have never been able to do this without help from the community, so thanks to everyone who posted in the following threads:
