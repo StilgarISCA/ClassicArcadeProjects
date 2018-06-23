@@ -17,15 +17,15 @@ I keep mentioning that I'm looking for an authentic arcade experience in my cust
 
 At the time of this writing, my custom build is actually done and I'm catching up on posts I wanted to do. Now that you know that, I can safely say wiring up the coin meter was one of the hardest challenges for me in this project and the last thing to hold me up. I know very little about electrical engineering so I was trying to aquire just enough knowledge to wire in the coin counter. Read a bunch of stuff, try to wire it up and see what happens.
 
-What made this difficult is that my coin meter was a 12 volt meter which I ordered from Twisted Arcade. Those 12 volts are important, because the Raspberry Pi runs off five volts. All of the keyboard-emulated buttons work off the iPac which connects to the Pi via USB; also five volts. So how do you wire up the coin mechs to trip both the 12 volt meter *and* the five volt coin switch on the iPac without blowing something up?
+What made this difficult is that my coin meter was a 12 volt meter which I ordered from Twisted Quarter. Those 12 volts are important because the Raspberry Pi runs off five volts. All of the keyboard-emulated buttons &mdash; including coin switches &mdash; work off the iPac which connects to the Pi via USB; also five volts. So how do you wire up the coin mechs to trip both the 12 volt meter *and* the five volt coin switch on the iPac without blowing something up?
 
 I'll spare you the boring stories of what didn't work and jump right to the solution. The key is to use the ground wire and restrict the voltage flow with Zener diodes.
 
 Here's what you need:
 
-* Two 1N4007 Zener diodes. I got 10 of them from DigiKey for a little over five dollars -- that includes the shipping cost.
+* Two 1N4007 Zener diodes. I got ten of them from DigiKey for a little over five dollars -- that includes the shipping cost.
 * Euro-Style terminal connector from DigiKey. A couple of dollars for two.
-* 12v 6-Digit meter *with diode*. That with diode part is important. This was about six dollars from Twisted Quarter.
+* 12v six-digit meter *with diode*. That with diode part is important. This was about six dollars from Twisted Quarter.
 
 {% include image.html
             img="img/12v-meter-5v-iPac.png"
