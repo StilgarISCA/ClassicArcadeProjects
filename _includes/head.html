@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
-    <link rel="shortcut icon" href="{{ "/favicon.ico" | prepend: site.baseurl }}" type="image/x-icon">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}" type="image/x-icon">
 
     <!-- Touch Icons -->
     <!-- For non-Retina (@1× display) iPhone, iPod Touch, and Android 2.1+ devices: -->
@@ -22,13 +22,13 @@
     <link rel="icon" sizes="192x192" href="{{ site.baseurl }}/touch-icon-192x192.png">
 
     <!-- Canonical -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url | prepend: site.url }}">
 
     <!-- RSS -->
-    <link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+    <link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url | prepend: site.url }}" />
 
     <!-- CSS -->
-    <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/css/main.css" | relative_url }}">
 
     <noscript id="deferred-styles">
         {% if site.theme_settings.google_fonts %}
