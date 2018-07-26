@@ -8,6 +8,7 @@
 
   a {
     color: $header-link-color;
+    @extend .link-hover;
   }
 
   .avatar {

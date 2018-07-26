@@ -24,7 +24,7 @@
     font-size: 1.25em;
   }
   .call-out {
-    height: 300px;      
+    height: 300px;
   }
 }
 @media only screen and (max-width: 500px) {
@@ -32,7 +32,7 @@
     font-size: 1em;
   }
   .call-out {
-    height: 150px;      
+    height: 150px;
   }
 }
 // Post listing
@@ -44,8 +44,8 @@
     display: inline-block;
     background-size: $feature-image-size;
     border-bottom: 1px solid $border-color;
-    p a:hover {
-      @extend %link-hover;
+    p a {
+      @extend .link-hover;
     }
   }
   .excerpt {

@@ -10,8 +10,8 @@ article {
     margin-bottom: 6%;
     text-align: center;
   }
-  a:hover {
-    @extend %link-hover;
+  a {
+    @extend .link-hover;
   }
   .footnotes {
     font-size: 0.9em;
@@ -71,9 +71,7 @@ header {
     border: 1px solid rgba(255, 255, 255, 0);
     text-align: center;
     width: 50%;
-  }
-  a:hover {
-    @extend a.button:hover;
+    @extend .button-hover;
   }
 
   i {
