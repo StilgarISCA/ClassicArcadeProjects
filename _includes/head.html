@@ -1,7 +1,5 @@
 <head>
-    <meta charset="utf-8">
-    <title>{% if page.title %}{{ page.title }} |{% endif %} {{ site.theme_settings.title }}</title>
-    <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines }}{% else %}{{ site.theme_settings.description }}{% endif %}">
+    {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
     <!-- Favicon -->
@@ -20,9 +18,6 @@
     <link rel="apple-touch-icon" sizes="180x180" href="{{ site.baseurl }}/apple-touch-icon-180x180.png">
     <!-- For Chrome for Android: -->
     <link rel="icon" sizes="192x192" href="{{ site.baseurl }}/touch-icon-192x192.png">
-
-    <!-- Canonical -->
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | relative_url | prepend: site.url }}">
 
     <!-- RSS -->
     <link rel="alternate" type="application/atom+xml" title="{{ site.theme_settings.title }}" href="{{ "/feed.xml" | relative_url | prepend: site.url }}" />

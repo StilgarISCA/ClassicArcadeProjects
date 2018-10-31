@@ -4,10 +4,14 @@ url: "https://www.classicarcadeprojects.com" # the base hostname & protocol for 
 encoding: utf-8
 timezone: America/Detroit
 
+# Jekyll SEO Settings
+# https://github.com/jekyll/jekyll-seo-tag/tree/master/docs
+title: Classic Arcade Projects
+repository: StilgarISCA/ClassicArcadeProjects
+
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Classic Arcade Projects
   avatar:
   gravatar: #959080cbb338fac79169ebbe21cbe988
   description: "Dedicated to my classic arcade build and rebuild projects" # used by search engines
@@ -79,6 +83,7 @@ plugins:
   - jekyll-paginate
   - jekyll-github-metadata
   - jekyll-sitemap # https://github.com/jekyll/jekyll-sitemap
+  - jekyll-seo-tag
 
 # EXCLUDE THESE FILES/FOLDERS FROM JEKYLL BUILD
 exclude: ['vendor', 'node_modules', 'src', 'Gemfile', 'Gemfile.lock']
