@@ -7,7 +7,7 @@ tags:
 - buttons
 - goldleaf switches
 - overlay
-feature-img: "img/tnf-cp-single-in-place.jpg"
+image: img/tnf-cp-single-in-place.jpg
 comments: true
 ---
 My [last update](/2016/10/24/Fabricating-Control-Panels.html) was about the particle board construction of the control panels. There's a lot more to them which hasn't been covered so let’s get going!

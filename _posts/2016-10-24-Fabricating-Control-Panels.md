@@ -5,7 +5,7 @@ tags:
 - Track & Field
 - control panel
 - particle board
-feature-img: "img/tnf-cp-single-in-place.jpg"
+image: img/tnf-cp-single-in-place.jpg
 comments: true
 excerpt: Original Track and Field cocktail cabinets had control panels crafted from a medium gauge metal. I'm even less of a metal worker than a woodworker, so I crafted mine out of quarter inch particle board. I also made some decisions to deviate from the original cabinet.
  

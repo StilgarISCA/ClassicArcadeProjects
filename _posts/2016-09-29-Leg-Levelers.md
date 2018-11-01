@@ -7,7 +7,7 @@ tags:
 - Legs
 - Leg Levelers
 - Paint
-feature-img: "img/tnf-brushing-bottom.jpg"
+image: img/tnf-brushing-bottom.jpg
 comments: true
 ---
 Since my last update, I've been busy working on the control panels. They're not quite done yet, but as I've worked on them, I realized that the partially assembled cabinet is getting to unwieldy to move around. I decided that it's time to get it off of my garage floor and install the leg levelers.

@@ -4,7 +4,7 @@ title: "Credits"
 permalink: /credits/
 hide: false
 sitemap: true
-feature-img: "img/Coins-9626.jpg"
+image: img/Coins-9626.jpg
 ---
 Credits for various resources utilized on classicarcadeprojects.com.
 

@@ -9,7 +9,7 @@ tags:
 - woodgrain
 - finish
 - vinyl
-feature-img: "img/tnf-outside-primed.jpg"
+image: img/tnf-outside-primed.jpg
 comments: true
 ---
 Mounting the completed control panels required me to prime and paint the rest of the cabinet first, otherwise I'd have to paint around my other finished parts. With the painting done, I was also able to finish up the woodgrain sides and install the coin door.

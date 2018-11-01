@@ -7,7 +7,7 @@ tags:
 - Router
 - Speaker
 - Jig
-feature-img: "img/ready-to-route.jpg"
+image: img/ready-to-route.jpg
 comments: true
 ---
 In order to continue assembly on my Track & Field cabinet, I needed to route out some speaker/vent slots before attaching any more pieces. Unfortunately, I wasn't sure how to do it.

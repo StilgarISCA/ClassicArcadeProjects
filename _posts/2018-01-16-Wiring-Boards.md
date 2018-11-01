@@ -8,7 +8,7 @@ tags:
 - fuse block
 - bus bar
 - switching power supply
-feature-img: "img/tnf-control-panel-lose-wiring.jpg"
+image: img/tnf-control-panel-lose-wiring.jpg
 comments: true
 excerpt: Another post on wiring. This time I cover how I wired all my bords into a switching power supply with fuses. I also cover why it's been so long since the last update.
 ---

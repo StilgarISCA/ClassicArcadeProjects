@@ -9,7 +9,7 @@ tags:
 - coin meter
 - meter
 - ipac
-feature-img: "img/tnf-coin-meter.jpg"
+image: img/tnf-coin-meter.jpg
 comments: true
 excerpt: For an authentic video game experience, I wanted a working coin meter in my scratch built game. Knowing very little about wiring, I needed a lot of help from the community to pull this off.
 ---

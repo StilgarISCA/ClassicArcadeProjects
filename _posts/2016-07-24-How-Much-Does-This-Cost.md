@@ -7,7 +7,7 @@ tags:
 - Notes
 - Cost
 - Budget
-feature-img: "img/cost-sheet.jpg"
+image: img/cost-sheet.jpg
 comments: true
 ---
 It's been over a week since I've been able to work on my Track & Field build because my kids had a hectic soccer camp schedule and now the weather isn't cooperating again. I've been making some minor changes to this site in the meantime, and I thought today I'd do a post on the cost of my build.

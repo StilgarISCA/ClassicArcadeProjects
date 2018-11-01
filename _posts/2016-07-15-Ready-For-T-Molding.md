@@ -5,7 +5,7 @@ tags:
 - Router
 - T-Molding
 - Slot cutter
-feature-img: "img/tnf-router-ready.jpg"
+image: img/tnf-router-ready.jpg
 comments: true
 ---
 I ended up halting my cabinet assembly because I realized that I needed to cut the slot for my t-molding and it'd be difficult to use my router on an assembled cabinet.

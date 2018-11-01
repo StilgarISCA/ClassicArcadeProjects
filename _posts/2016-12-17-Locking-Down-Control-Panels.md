@@ -4,7 +4,7 @@ title: Locking Down the Control Panels
 tags:
 - Track and Field
 - control panel
-feature-img: "img/tnf-lockdown-bar-mock.jpg"
+image: img/tnf-lockdown-bar-mock.jpg
 comments: true
 ---
 In my third and final post on the control panels, I show how I locked them down using some angled steel so they can't be opened by players.

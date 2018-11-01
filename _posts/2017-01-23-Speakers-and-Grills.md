@@ -6,7 +6,7 @@ tags:
 - speakers
 - grills
 - perforated aluminum
-feature-img: "img/tnf-grills-in-place.jpg"
+image: img/tnf-grills-in-place.jpg
 comments: true
 excerpt: This post is about the challenge of locating perforated aluminum, creating speaker hole and vent covers, and also speakers to a lesser extent.
 ---

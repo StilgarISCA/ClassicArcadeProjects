@@ -7,7 +7,7 @@ tags:
 - molex
 - crimp
 - terminal
-feature-img: "img/tnf-control-panel-lose-wiring.jpg"
+image: img/tnf-control-panel-lose-wiring.jpg
 comments: true
 excerpt: After many, many hours of running wires and crimping pins and terminals, I wasn't very thrilled to revisit all this work in the form of a blog post. Much like the wiring job itself, I pushed through and here we are.
 ---
