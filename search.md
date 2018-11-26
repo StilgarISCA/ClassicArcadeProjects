@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Search
+hide: true
+permalink: /search/
 ---
 <form action="get" id="site_search" role="search">
 <center>

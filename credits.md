@@ -2,7 +2,7 @@
 layout: page
 title: "Credits"
 permalink: /credits/
-hide: false
+hide: true
 sitemap: true
 image: img/Coins-9626.jpg
 ---
