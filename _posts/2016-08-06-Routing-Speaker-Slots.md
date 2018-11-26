@@ -2,7 +2,7 @@
 layout: post
 title: Routing Out Speaker Slots
 tags:
-- Track & Field
+- Track and Field
 - Cabinet
 - Router
 - Speaker

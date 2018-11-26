@@ -2,7 +2,7 @@
 layout: post
 title: Finishing the Cabinet with Paint &amp; Vinyl
 tags:
-- Track & Field
+- Track and Field
 - cabinet
 - paint
 - primer

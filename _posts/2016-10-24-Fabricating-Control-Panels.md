@@ -2,7 +2,7 @@
 layout: post
 title: Control Panel Fabrication
 tags:
-- Track & Field
+- Track and Field
 - control panel
 - particle board
 image: img/tnf-cp-single-in-place.jpg

@@ -2,7 +2,7 @@
 layout: post
 title: Researching my Track & Field Build
 tags:
-- Track & Field
+- Track and Field
 - Cabinet
 - Hardware
 - Notes

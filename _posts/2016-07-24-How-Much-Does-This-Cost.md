@@ -2,7 +2,7 @@
 layout: post
 title: How Much Does All This Cost?
 tags:
-- Track & Field
+- Track and Field
 - Cabinet
 - Notes
 - Cost
