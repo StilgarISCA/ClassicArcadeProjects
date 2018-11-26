@@ -10,7 +10,7 @@ image: img/tnf-grills-in-place.jpg
 comments: true
 excerpt: This post is about the challenge of locating perforated aluminum, creating speaker hole and vent covers, and also speakers to a lesser extent.
 ---
-Among the more difficult to find pieces for my Track and Field Cocktail were the metal sheets which covered the speakers and vent holes. Presumably these covers prevent anyone from poking out the speakers or dropping their garbage inside the cabinet.
+Among the more difficult to find pieces for my Track & Field Cocktail were the metal sheets which covered the speakers and vent holes. Presumably these covers prevent anyone from poking out the speakers or dropping their garbage inside the cabinet.
 
 When I say difficult to find, what I really mean is I didn't know what I was looking for. I had no idea of how to describe these sheets. Eventually, the phrase I stumbled onto that worked was perforated aluminum. I ended up ordering a 3' x 3' sheet from Amazon.com. Way more than I needed, but it could be useful down the road if I push forward with another project.
 

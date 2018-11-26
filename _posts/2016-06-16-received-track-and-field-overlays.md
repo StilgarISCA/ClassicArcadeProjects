@@ -8,7 +8,7 @@ tags:
 - overlay
 comments: true
 ---
-I received my Track And Field control panel overlays today. They look very nice and have an authentic texture to them.
+I received my Track & Field control panel overlays today. They look very nice and have an authentic texture to them.
 
 ![alt text](/img/tnf-overlay.png "Player 3 & 4 control panel overlay")
 

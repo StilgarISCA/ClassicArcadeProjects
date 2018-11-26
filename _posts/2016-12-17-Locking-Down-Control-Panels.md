@@ -9,7 +9,7 @@ comments: true
 ---
 In my third and final post on the control panels, I show how I locked them down using some angled steel so they can't be opened by players.
 
-An authentic Track and Field cocktail has these shaped metal cross bars which the control panels bolt into to secure both the control panel and the glass.
+An authentic Track & Field cocktail has these shaped metal cross bars which the control panels bolt into to secure both the control panel and the glass.
 
 I thought I'd be able to use a more-standard latching system to lock down the control panels on my reproduction, but I later realized that there'd be no easy way to reach up from underneath and unlatch. As it turns out, the cross bars also add some much needed strength to the top of the cabinet. I suppose I should stop thinking I can improve on the original design.
 
@@ -23,7 +23,7 @@ I laid the cross bars onto the correct position in the cabinet, marked where the
 
 ![alt text](/img/tnf-lockdown-bar-chiseled.jpg "Lockdown bar in chiseled notches.")
 
-Securing the control panel to the cross bars was the tricky part. An authentic Track and Field cocktail control panel has three screws that go through the top of the control panel. They're not positioned well because they obscure the text of the overlay. I decided to only use two screws and to locate them where they won't be obscuring anything noteworthy on the overlay.
+Securing the control panel to the cross bars was the tricky part. An authentic Track & Field cocktail control panel has three screws that go through the top of the control panel. They're not positioned well because they obscure the text of the overlay. I decided to only use two screws and to locate them where they won't be obscuring anything noteworthy on the overlay.
 
 {% include image.html
             img="img/tnf-control-panel-screws.jpg"

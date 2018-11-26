@@ -12,7 +12,7 @@ comments: true
 ---
 My [last update](/2016/10/24/Fabricating-Control-Panels.html) was about the particle board construction of the control panels. There's a lot more to them which hasn't been covered so let’s get going!
 
-Constructing this game from scratch without complete plans has been challenging at times. Without complete plans, I wasn’t sure how the control panels were supposed to open. Thankfully, there were a few Track and Field cocktails elsewhere on the internet which I could reference. Initially, I didn’t think I’d be able to use a piano hinge on the control panels, but it ended up being the correct choice.
+Constructing this game from scratch without complete plans has been challenging at times. Without complete plans, I wasn’t sure how the control panels were supposed to open. Thankfully, there were a few Track & Field cocktails elsewhere on the internet which I could reference. Initially, I didn’t think I’d be able to use a piano hinge on the control panels, but it ended up being the correct choice.
 
 I was hoping to find a piano hinge close to the right size 23 &frac34;”, but I had to get one much larger. It was easy enough to nip away the excess length with my tin snips. I then zipped through the hinge rod with a cutting wheel on my Dremel rotary tool.
 
@@ -39,7 +39,7 @@ Putting the overlay on turned out to be easier than I thought, but I had a major
             caption="Ugh. It makes me sick to even look at this. A slip with the utility knife."
 %}
 
-The buttons I ordered are [Goldleaf buttons from Ultimarc](https://www.ultimarc.com/goldleaf.html). I thought these would be good Track and Field buttons because they have tiny leaf switches integrated, but in the end they’re kinda mushy for my tastes. I’ll probably switch these out with something later too. The other thing that’s rather annoying which you might be able to see in the image is that the blue buttons are slightly smaller than the white and the red. One final oops, the Player 3 and 4 buttons are a tad to the left. I swear, everything about this project is a test of my ability to cope with my OCD. 
+The buttons I ordered are [Goldleaf buttons from Ultimarc](https://www.ultimarc.com/goldleaf.html). I thought these would be good Track & Field buttons because they have tiny leaf switches integrated, but in the end they’re kinda mushy for my tastes. I’ll probably switch these out with something later too. The other thing that’s rather annoying which you might be able to see in the image is that the blue buttons are slightly smaller than the white and the red. One final oops, the Player 3 and 4 buttons are a tad to the left. I swear, everything about this project is a test of my ability to cope with my OCD. 
 
 {% include image.html
             img="img/tnf-player1-cp-finished.jpg"
