@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Installing speakers and grills
+title: Installing Speakers and Grills
 tags:
 - Track and Field
 - speakers

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Cutting out the coin door hole
+title: Cutting Out the Coin Door Hole
 tags:
 - MDF
 - Assembly

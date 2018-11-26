@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Received control panel overlays today
+title: Received Control Panel Overlays Today
 tags:
 - Track and Field
 - CPO
