@@ -9,6 +9,9 @@
   a {
     color: $header-link-color;
     @extend .link-hover;
+    &:hover {
+      color: darken($header-link-color, 15%);
+    }
   }
 
   .avatar {
