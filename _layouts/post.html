@@ -15,20 +15,16 @@ layout: default
 <!-- Post navigation -->
 {% if site.theme_settings.post_navigation %}
 <div id="post-nav" role="navigation" aria-labelledby="pagination">
-    {% if page.next.url %}
-    <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}">
+    <a id="next-post" href="{{ site.baseurl }}{{ page.next.url }}" {% unless page.next.url %}style="visibility: hidden;"{% endunless %}>
        <span class="nav-label">
         <i class="fa fa-chevron-left"></i> {{ site.theme_settings.str_prev }}
        </span>
      </a>
-    {% endif %}
-    {% if page.previous.url %}
-    <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}">
+    <a id="prev-post" href="{{ site.baseurl }}{{ page.previous.url }}" {% unless page.previous.url %}style="visibility: hidden;"{% endunless %}>
       <span class="nav-label">
         {{ site.theme_settings.str_next }} <i class="fa fa-chevron-right"></i>
       </span>
     </a>
-    {% endif %}
 </div>
 {% endif %}
 
