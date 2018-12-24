@@ -1,48 +1,54 @@
 <!-- _includes/navigation.html -->
 <ul>
     <li>
-        <a class="page-link" href="{{ site.baseurl }}/">
+        <a class="page-link tooltip" href="{{ site.baseurl }}/">
             <i class="fas fa-home"></i>
+            <span class="tooltiptext">Homepage</span>
         </a>
     </li>
 
     <!-- Manal Page Links -->
     <li>
-        <a class="page-link" href="{{ site.baseurl }}/about/">
+        <a class="page-link tooltip" href="{{ site.baseurl }}/about/">
             <i class="fas fa-info-circle"></i>
+            <span class="tooltiptext">About</span>
         </a>
     </li>
     <li>
-        <a class="page-link" href="{{ site.baseurl }}/credits/">
+        <a class="page-link tooltip" href="{{ site.baseurl }}/credits/">
             <i class="fab fa-creative-commons-by"></i>
+            <span class="tooltiptext">Credits</span>
         </a>
     </li>
     <li>
-        <a class="page-link" href="{{ site.baseurl }}/search/">
+        <a class="page-link tooltip" href="{{ site.baseurl }}/search/">
             <i class="fas fa-search"></i>
         </a>
     </li>
 
     {% if site.theme_settings.rss %}
         <li>
-            <a href="{{ "/feed.xml" | relative_url | prepend: site.url }}" title="{{ site.theme_settings.str_rss_follow }}">
+            <a class="page-link tooltip" href="{{ "/feed.xml" | relative_url | prepend: site.url }}" title="{{ site.theme_settings.str_rss_follow }}">
                 <i class="fas fa-rss"></i>
+                <span class="tooltiptext">RSS Feed</span>
             </a>
         </li>
     {% endif %}
 
     {% if site.theme_settings.github %}
         <li>
-            <a href="https://github.com/{{ site.theme_settings.github }}" title="{{ site.theme_settings.str_follow_on }} GitHub">
+            <a class="page-link tooltip" href="https://github.com/{{ site.theme_settings.github }}" title="{{ site.theme_settings.str_follow_on }} GitHub">
                 <i class="fab fa-github"></i>
+                <span class="tooltiptext">Github</span>
             </a>
         </li>
     {% endif %}
 
     {% if site.theme_settings.youtube %}
     <li>
-        <a href="https://www.youtube.com/user/{{ site.theme_settings.youtube }}" title="{{ site.theme_settings.str_follow_on }} YouTube">
+        <a class="page-link tooltip" href="https://www.youtube.com/user/{{ site.theme_settings.youtube }}" title="{{ site.theme_settings.str_follow_on }} YouTube">
             <i class="fab fa-youtube"></i>
+            <span class="tooltiptext">You Tube</span>
         </a>
     </li>
     {% endif %}
